@@ -1,4 +1,5 @@
 #!/bin/bash
+# build for 1.0.9 Windows
 HOST=x86_64-w64-mingw32
 CXX=x86_64-w64-mingw32-g++-posix
 CC=x86_64-w64-mingw32-gcc-posix
